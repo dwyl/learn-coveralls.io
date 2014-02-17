@@ -154,4 +154,4 @@ for a private repository! <br />
 - Why track complexity: http://www.databorough.com/Five-Reasons-to-Measure-the-Complexity-of-Your-Software.html
 - Books to read: http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
 
-> CodeClimate: https://codeclimate.com/github/signup`x
+> CodeClimate: https://codeclimate.com/github/signup
