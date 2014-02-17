@@ -1,5 +1,6 @@
-Learn Coveralls [![Build Status](https://travis-ci.org/nelsonic/learn-coveralls.io.png?branch=master)](https://travis-ci.org/nelsonic/learn-coveralls.io) [![Coverage Status](https://coveralls.io/repos/nelsonic/learn-coveralls.io/badge.png)](https://coveralls.io/r/nelsonic/learn-coveralls.io) [![Code Climate](https://codeclimate.com/github/nelsonic/learn-coveralls.io.png)](https://codeclimate.com/github/nelsonic/learn-coveralls.io) [![Dependencies](https://david-dm.org/nelsonic/learn-coveralls.io.png?theme=shields.io)](https://david-dm.org/nelsonic/learn-coveralls.io)
+Learn Coveralls 
 ===============
+[![Build Status](https://travis-ci.org/nelsonic/learn-coveralls.io.png?branch=master)](https://travis-ci.org/nelsonic/learn-coveralls.io) [![Coverage Status](https://coveralls.io/repos/nelsonic/learn-coveralls.io/badge.png)](https://coveralls.io/r/nelsonic/learn-coveralls.io) [![Code Climate](https://codeclimate.com/github/nelsonic/learn-coveralls.io.png)](https://codeclimate.com/github/nelsonic/learn-coveralls.io) [![Dependencies](https://david-dm.org/nelsonic/learn-coveralls.io.png?theme=shields.io)](https://david-dm.org/nelsonic/learn-coveralls.io)
 
 Coveralls tracks code coverage in your Node.JS & Client JS projects
 
