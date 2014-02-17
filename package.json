@@ -1,8 +1,8 @@
 {
-  "name": "learn-coveralls",
+  "name": "learn-coveralls.io",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nelsonic/learn-coveralls.git"
+    "url": "https://github.com/nelsonic/learn-coveralls.io.git"
   },
   "description": "Simple nodejs, travis and grunt demo",
   "author": "https://twitter.com/nelsonic",
