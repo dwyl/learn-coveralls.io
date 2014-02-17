@@ -4,6 +4,11 @@ Learn Coveralls
 
 Coveralls tracks code coverage in your Node.JS & Client JS projects
 
+![Rainbow Unicorns](http://i.imgur.com/IooIEX1.png "Rainbow Unicorns")
+
+***100% Code Coverage*** is no Unicorn.
+Not only is it *possible*, it needs to be the ***New Normal***.
+
 ## Intro
 
 ### What is Code Coverage?
@@ -112,7 +117,7 @@ repo_token: Y0urC0verallsRep0TokenGoesHere
 ### General JavaScript
 
 > Let me know if you want/need this...! 
-
+> Not a huge fan of being *forced to use grunt* ...
 
 <br />
 - - -
