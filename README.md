@@ -28,8 +28,7 @@ http://stackoverflow.com/questions/195008/what-is-code-coverage-and-how-do-you-m
 #### Note
 
 In the absence of other *objective* measures of code quality, 
-projects I have worked on in the past use code coverage as a benchmark
-for code completeness. 
+projects I have worked on in the past use code coverage as our benchmark. 
 
 
 ### Why is Code Coverage Important?
@@ -55,7 +54,7 @@ Features: https://coveralls.io/info/features
 
 ### Node.JS 
 
-For Node.js the easyiest way is to use: 
+For Node.js the easiest way is to use: 
 
 - **node-coverals** (by Gregg Caines): https://github.com/cainus/node-coveralls
 - [**Mocha.js**](http://visionmedia.github.io/mocha/)
