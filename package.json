@@ -1,0 +1,19 @@
+{
+  "name": "learn-coveralls",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nelsonic/learn-coveralls.git"
+  },
+  "description": "Simple nodejs, travis and grunt demo",
+  "author": "https://twitter.com/nelsonic",
+  "version": "0.0.1",
+  "devDependencies": {
+    "mocha": "*",
+    "chai":"*",
+    "istanbul":"*",
+    "coveralls":"*"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
