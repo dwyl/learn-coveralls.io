@@ -1,4 +1,4 @@
-Learn Coveralls
+Learn Coveralls [![Build Status](https://travis-ci.org/nelsonic/learn-coveralls.png?branch=master)](https://travis-ci.org/nelsonic/learn-coveralls) [![Coverage Status](https://coveralls.io/repos/nelsonic/learn-coveralls/badge.png)](https://coveralls.io/r/nelsonic/learn-coveralls) [![Code Climate](https://codeclimate.com/github/nelsonic/learn-coveralls.png)](https://codeclimate.com/github/nelsonic/learn-coveralls) [![Dependencies](https://david-dm.org/nelsonic/learn-coveralls.png?theme=shields.io)](https://david-dm.org/nelsonic/learn-coveralls)
 ===============
 
 Coveralls tracks code coverage in your Node.JS & Client JS projects
@@ -7,16 +7,23 @@ Coveralls tracks code coverage in your Node.JS & Client JS projects
 
 ### What is Code Coverage?
 
-Code coverage is a measure used to describe the degree to which  
-source code is tested by a test suite. 
+Code coverage measures how much of your source code is tested. 
 A program with high code coverage has been more thoroughly tested 
 and has a *lower chance* of containing software *bugs* than a program
 with low code coverage.
+
+#### Read more:
 
 - Wikipedia article: http://en.wikipedia.org/wiki/Code_coverage
 - What is Code Coverage: http://stackoverflow.com/questions/1158518/what-is-code-coverage
 - StackOverflow Discussion:  <br />
 http://stackoverflow.com/questions/195008/what-is-code-coverage-and-how-do-you-measure-it
+
+#### Note
+
+In the absence of other *objective* measures of code quality, 
+projects I have worked on in the past use code coverage as a benchmark
+for code completeness. 
 
 
 ### Why is Code Coverage Important?
@@ -51,9 +58,9 @@ Features: https://coveralls.io/info/features
 
 
 
+- - -
 
-
-## Notes
+## More
 
 ### Further Reading
 
@@ -62,11 +69,11 @@ Both my JavaScript TDD Tutorials include sections on Code Coverage:
 - QUnit: https://github.com/nelsonic/learn-qunit
 - Mocha: https://github.com/nelsonic/learn-mocha
 
-More StackOverflow threads:
+StackOverflow threads:
 
 - http://stackoverflow.com/questions/1475520/unit-testing-code-coverage-do-you-have-100-coverage
 
-More Tutorials:
+Tutorials:
 
 - http://boycook.wordpress.com/2013/09/17/javascript-coverage-with-istanbul-and-coveralls-via-travis-ci/
 
@@ -83,5 +90,6 @@ for a private repository! <br />
 
 - Code Complexity: http://en.wikipedia.org/wiki/Programming_complexity
 - Why track complexity: http://www.databorough.com/Five-Reasons-to-Measure-the-Complexity-of-Your-Software.html
+- Books to read: http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
 
 > CodeClimate: https://codeclimate.com/github/signup`x
