@@ -46,14 +46,30 @@ It's *free* for open source projects so get started *today*!
 
 Features: https://coveralls.io/info/features
 
-## Get Started
+# Get Started
 
-### 3 Ways to Use Coveralls in a JavaScript Project
+## 3 Ways to Use Coveralls in a JavaScript Project
 
 1. General JS: https://coveralls.io/docs/javascript
 2. Node.JS (server side): https://coveralls.io/docs/node
 3. Direct interface with Coveralls API: https://coveralls.io/docs/api 
 (*beyond the scope of this tutorial*)
+
+
+### General JavaScript
+
+> TBC
+
+### Node.JS 
+
+Before we can check code coverage we need to write some code!
+But since this is not the *focus* of this tutorial, I'm not going
+to dwell on it too much. 
+
+For a more detailed look at the code used here, see: 
+https://github.com/nelsonic/learn-mocha
+
+
 
 
 
