@@ -6,8 +6,8 @@ Coveralls helps track code coverage in your Node.JS & Browser JS projects
 
 ![Rainbow Unicorns](http://i.imgur.com/HRG0EVa.png "Rainbow Unicorns")
 
-***100% Code Coverage*** is no Unicorn.
-Not only is it *possible*, it needs to be the ***New Normal***.
+***100% Code Coverage*** is no Myth.
+Its not only *possible*, it needs to be the ***New Normal***.
 
 ## Intro
 
