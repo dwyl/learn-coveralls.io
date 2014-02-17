@@ -49,20 +49,21 @@ Coveralls is a code coverage checking service. <br />
 It does one thing well: tracking code coverage. <br />
 It's *free* for open source projects so get started *today*!
 
-
 Features: https://coveralls.io/info/features
 
-# Get Started
-
-## 3 Ways to Use Coveralls in a JavaScript Project
-
-1. Node.JS (server side): https://coveralls.io/docs/node
-2. General JS: https://coveralls.io/docs/javascript
-3. Direct interface with Coveralls API: https://coveralls.io/docs/api 
-(*beyond the scope of this tutorial*)
-
+## Get Started
 
 ### Node.JS 
+
+For Node.js the easyiest way is to use: 
+
+- **node-coverals** (by Gregg Caines): https://github.com/cainus/node-coveralls
+- [**Mocha.js**](http://visionmedia.github.io/mocha/)
+- [**Istanbul**](https://github.com/gotwarlost/istanbul)
+
+Other options are available. see: https://coveralls.io/docs/node
+
+#### Some Code
 
 Before we can check code coverage we need to write some code!
 But since this is not the *focus* of this tutorial, I'm not going
@@ -70,11 +71,6 @@ to dwell on it too much.
 
 For a more detailed look at the code used here, see: 
 https://github.com/nelsonic/learn-mocha
-
-**Note**: I'm assuming you are using 
-[**Mocha.js**](http://visionmedia.github.io/mocha/)
-for your testsand [**Istanbul**](https://github.com/gotwarlost/istanbul)
-other options are available.
 
 #### Visit Coveralls.io
 
@@ -114,10 +110,12 @@ repo_token: Y0urC0verallsRep0TokenGoesHere
 
 <br />
 
-### General JavaScript
+### Other Options for JavaScript Code Coverage
 
-> Let me know if you want/need this...! 
-> Not a huge fan of being *forced to use grunt* ...
+- General JS: https://coveralls.io/docs/javascript
+- Direct interface with Coveralls API: https://coveralls.io/docs/api 
+(*beyond the scope of this tutorial*)
+
 
 <br />
 - - -
