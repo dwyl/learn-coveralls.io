@@ -58,7 +58,8 @@ Features: https://coveralls.io/info/features
 
 ### General JavaScript
 
-> TBC
+> Let me know if you want/need this...! 
+
 
 ### Node.JS 
 
@@ -69,7 +70,45 @@ to dwell on it too much.
 For a more detailed look at the code used here, see: 
 https://github.com/nelsonic/learn-mocha
 
+**Note**: I'm assuming you are using 
+[**Mocha.js**](http://visionmedia.github.io/mocha/)
+for your testsand [**Istanbul**](https://github.com/gotwarlost/istanbul)
+other options are available.
 
+#### Visit Coveralls.io
+
+Navigate to: https://coveralls.io where you will see a 
+"Sign in with GitHub" button.
+
+![Coveralls login w GitHub](http://i.imgur.com/jAXLW6o.png "Coveralls login")
+
+
+#### Add Repo
+
+Click the "Add Repo" link:
+
+![Add Repo](http://i.imgur.com/Q9T54Bq.png "Add repo")
+
+
+#### Find your Repo and Flip the Switch 
+
+![Flip Switch](http://i.imgur.com/rNFNsJK.png "Flip Switch")
+
+
+#### Create .coveralls.yml file and Add Token
+
+![repo_token](http://i.imgur.com/D3CE8Mt.png "repo_token")
+
+Get your repo_token from coveralls and create a **.coveralls.yml** config file.
+
+`vi .coveralls.yml`
+
+
+```yml
+repo_token: Y0urC0verallsRep0TokenGoesHere
+```
+
+#### 
 
 
 
