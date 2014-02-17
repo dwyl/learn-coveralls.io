@@ -109,11 +109,10 @@ Get your repo_token from coveralls and create a **.coveralls.yml** config file.
 repo_token: Y0urC0verallsRep0TokenGoesHere
 ```
 
-#### 
+#### Done. (Yes, its *That Simple*!)
 
 
-
-
+<br />
 - - -
 
 ## More
