@@ -104,6 +104,9 @@ Get your repo_token from coveralls and create a **.coveralls.yml** config file.
 repo_token: Y0urC0verallsRep0TokenGoesHere
 ```
 
+Push your code to GitHub to trigger Travis and Coveralls.
+
+
 #### Done. (Yes, its *That Simple*!)
 
 
