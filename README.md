@@ -51,15 +51,10 @@ Features: https://coveralls.io/info/features
 
 ## 3 Ways to Use Coveralls in a JavaScript Project
 
-1. General JS: https://coveralls.io/docs/javascript
-2. Node.JS (server side): https://coveralls.io/docs/node
+1. Node.JS (server side): https://coveralls.io/docs/node
+2. General JS: https://coveralls.io/docs/javascript
 3. Direct interface with Coveralls API: https://coveralls.io/docs/api 
 (*beyond the scope of this tutorial*)
-
-
-### General JavaScript
-
-> Let me know if you want/need this...! 
 
 
 ### Node.JS 
@@ -110,6 +105,13 @@ repo_token: Y0urC0verallsRep0TokenGoesHere
 ```
 
 #### Done. (Yes, its *That Simple*!)
+
+
+<br />
+
+### General JavaScript
+
+> Let me know if you want/need this...! 
 
 
 <br />
