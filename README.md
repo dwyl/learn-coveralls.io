@@ -57,7 +57,7 @@ Features: https://coveralls.io/info/features
 For Node.js the easiest way is to use: 
 
 - **node-coverals** (by Gregg Caines): https://github.com/cainus/node-coveralls
-- [**Mocha.js**](http://visionmedia.github.io/mocha/)
+- [**Mocha.js**](http://mochajs.org/)
 - [**Istanbul**](https://github.com/gotwarlost/istanbul)
 
 Other options are available. see: https://coveralls.io/docs/node
