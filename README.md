@@ -155,3 +155,5 @@ for a private repository! <br />
 - Books to read: http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
 
 > CodeClimate: https://codeclimate.com/github/signup
+
+[![Coverage Status](https://coveralls.io/repos/github/Phillipe-Bojorquez/learn-coveralls.io/badge.svg?branch=master)](https://coveralls.io/github/Phillipe-Bojorquez/learn-coveralls.io?branch=master)
